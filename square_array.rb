@@ -1,4 +1,8 @@
 def square_array(array)
-   n>array.length array.each{|n| (new_value = n)}
-  }
+  i=0
+  while
+  i>array.length 
+  i+=
+  array.each{|n| (new_value = n
+  end
 end 
