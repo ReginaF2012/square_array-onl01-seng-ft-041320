@@ -1,4 +1,4 @@
 def square_array(array)
-  array.each{|n| (new_value = n)}
+   n>array.length array.each{|n| (new_value = n)}
   }
 end 
