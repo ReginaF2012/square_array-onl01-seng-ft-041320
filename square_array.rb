@@ -1,3 +1,3 @@
 def square_array(array)
-  array.each{|n| puts (n+5)}
+  array.each{|n| return (n ** 2)}
 end 
